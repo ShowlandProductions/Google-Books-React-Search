@@ -2,7 +2,7 @@
 
 <h4 align="center">Full stack application<h4>
 
-![app]()
+![app](client/public/images/screenshot.png)
 
 ## Description
 
