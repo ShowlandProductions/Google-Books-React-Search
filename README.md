@@ -9,12 +9,11 @@
 React-based Google Books Search app that displays books on user searches. Users can save them to review or purchase later. 
 
 ## Deployment 
-This App is deployed on Heroku: [Google Books Search]()
+This App is deployed on Heroku: [Google Books Search](https://fast-bastion-66631.herokuapp.com/)
 
 <h2 align="center">
 <img alt="mern" src="client/public/images/mern.jpg" width="50%">
 </h2>
-
 - [MongoDB](mongodb.com)
 - [Express.js](https://expressjs.com)
 - [React.js](https://reactjs.org/)
