@@ -14,6 +14,7 @@ This App is deployed on Heroku: [Google Books Search](https://fast-bastion-66631
 <h2 align="center">
 <img alt="mern" src="client/public/images/mern.jpg" width="50%">
 </h2>
+## Dependencies
 - [MongoDB](mongodb.com)
 - [Express.js](https://expressjs.com)
 - [React.js](https://reactjs.org/)
